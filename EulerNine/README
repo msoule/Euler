@@ -1,0 +1,13 @@
+!!!!!!!!!!!!!!!Mark Soule's first Scala project!!!!!!!!!!!!!!
+Euler 9
+Brute force
+
+Requirements:
+	Java ~8
+	Scala
+	Scalatest
+	Too much heap space
+	
+It works if you have enough heap space. Otherwise it doesn't solve abc for a + b + c = 1000.
+It didn't work with 16 gig heap space.
+Uses the most brute force solution.
